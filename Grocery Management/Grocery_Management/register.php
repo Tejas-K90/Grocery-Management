@@ -2,7 +2,7 @@
 // Database configuration
 $dbHost = 'grocy-database-service:3306';
 $dbUsername = 'root';
-$dbPassword = '989878;
+$dbPassword = '989878';
 $dbName = 'GROCERY';
 
 // Connect to the database
