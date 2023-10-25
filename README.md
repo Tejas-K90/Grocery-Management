@@ -4,14 +4,14 @@
 
 ### -----------------------Clone this Repository---------------------------<br>
 #execute command inside your machine<br>
-**git clone https://github.com/Tejas-K90/Grocy-Management/**
+**$ git clone https://github.com/Tejas-K90/Grocy-Management/**
 
 ### --------------------------- DATABASE-----------------------------------<br>
 #There is "GROCYHERE.sql" file as SQL DUMP file.<br>
 #You can DUMP SQL DATABASE into MARIADB by using these steps<br>
 #1. First Make Database named as "GROCERY" inside your mariadb server<br>
 #2. Execute this command inside yor linux<br>
-**mysql -u root -p GROCERY < GROCYHERE.sql**
+**$ mysql -u root -p GROCERY < GROCYHERE.sql**<br>
 #All tables and data will be imported inside your database<br>
 
 ### -----------------------------File---------------------------------------<br>
@@ -19,7 +19,7 @@
 #Complete instalation of apache2 and php inside your machine,<br>
 #Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
 #start the apache server<br>
-**systemctl start apache2**
+**$ systemctl start apache2**
 
 ### --------------------------Output images---------------------------------
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/cdd78309-2fc4-4629-9ef5-ff732cbe59d8)
