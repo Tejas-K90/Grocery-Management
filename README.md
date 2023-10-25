@@ -1,24 +1,24 @@
 # Grocery-Management
-# Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,
-# For database MariaDB service is used.
+#Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,
+#For database MariaDB service is used.
 
-#-----------------------Clone this Repository---------------------------
-# execute command inside your machine
+# -----------------------Clone this Repository---------------------------
+#execute command inside your machine
 git clone https://github.com/Tejas-K90/Grocy-Management/
 
-#--------------------------- DATABASE-----------------------------------
-# There is "GROCYHERE.sql" file as SQL DUMP file.
-# You can DUMP SQL DATABASE into MARIADB by using these steps
-# 1. First Make Database named as "GROCERY" inside your mariadb server
-# 2. Execute this command inside yor linux
+# --------------------------- DATABASE-----------------------------------
+There is "GROCYHERE.sql" file as SQL DUMP file.
+#You can DUMP SQL DATABASE into MARIADB by using these steps
+#1. First Make Database named as "GROCERY" inside your mariadb server
+#2. Execute this command inside yor linux
 mysql -u root -p GROCERY < GROCYHERE.sql
-# All tables and data will be imported inside your database
+#All tables and data will be imported inside your database
 
-#-----------------------------File---------------------------------------
-# All required files are inside "/Grocery_Management" folder.
-# Complete instalation of apache2 and php inside your machine,
-# Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.
-# start the apache server
+# -----------------------------File---------------------------------------
+#All required files are inside "/Grocery_Management" folder.
+#Complete instalation of apache2 and php inside your machine,
+#Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.
+#start the apache server
 systemctl start apache2 
 
 #--------------------------Output images---------------------------------
