@@ -19,7 +19,7 @@
 **$ mysql -u root -p GROCERY < GROCYHERE.sql**<br>
 #All tables and data will be imported inside your database<br>
 
-### -----------------------------File---------------------------------------<br>
+### -----------------------------Start Apache------------------------------<br>
 #All required files are inside "/Grocery_Management" folder.<br>
 #Complete instalation of apache2 and php inside your machine,<br>
 #Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
