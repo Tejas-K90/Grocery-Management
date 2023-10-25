@@ -1,6 +1,11 @@
 # Grocery-Management<br>
 #Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,<br>
 #For database MariaDB service is used.<br>
+<br>
+### -----------------------About This Project------------------------------<br>
+
+*The grocery management project aims to address the following problem statement: "Inefficient and time-consuming grocery shopping processes for consumers and limited inventory control for store owners." This project will provide a comprehensive solution to optimize the grocery shopping experience for consumers by developing a user-friendly mobile application that enables them to create and manage shopping lists, find the most cost-effective products, and access real-time inventory information.*<br>
+
 
 ### -----------------------Clone this Repository---------------------------<br>
 #execute command inside your machine<br>
