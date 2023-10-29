@@ -58,7 +58,7 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 **$ systemctl start apache2**<br>
 
 
-# Azure Services Overview ___________________________________________<br>
+# Azure Services Overview<br>
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/3f87e6e7-82a0-4028-9ab0-a6e367a1808a)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/96cc22b6-48b7-4995-ac1a-77bdef7bf125)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/fdf187c7-6154-44e9-bb12-3df13b0aa633)
