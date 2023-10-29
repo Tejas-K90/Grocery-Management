@@ -63,6 +63,7 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/3f87e6e7-82a0-4028-9ab0-a6e367a1808a)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/96cc22b6-48b7-4995-ac1a-77bdef7bf125)
 ### 2. Virtual Machine Scale Set (VMSS)
+![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/095199cb-df41-42de-9aa2-e7a87ad9bdd9)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/fdf187c7-6154-44e9-bb12-3df13b0aa633)
 ### 3. Load Balancer
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a7a441fd-c476-4103-932a-3a219fb47fa8)
