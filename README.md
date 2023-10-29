@@ -12,6 +12,8 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 ### -----------------------About This Project------------------------------<br>
 
  *The grocery management project aims to address the following problem statement: "Inefficient and time-consuming grocery shopping processes for consumers and limited inventory control for store owners." This project will provide a comprehensive solution to optimize the grocery shopping experience for consumers by developing a user-friendly mobile application that enables them to create and manage shopping lists, find the most cost-effective products, and access real-time inventory information.* <br>
+### _______________________________________________________________________
+
 
 
 ## Azure Services Used in this Project
