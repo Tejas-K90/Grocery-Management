@@ -22,29 +22,39 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 
 3. **Virtual Machine Scale Set (VMSS)**: It is a service that allows you to deploy and manage a group of identical virtual machines. It automatically increases or decreases the number of VM instances in response to changes in demand, helping to ensure high availability, load distribution, and efficient resource utilization for your applications.
 
+
+
 ## Code overview
 - Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,<br>
 - For database MariaDB service is used,<br>
 - Every file required to run the web-app is in Grocery-Management repository.
 
+
+
 ### -----------------------Clone this Repository---------------------------<br>
-#execute command inside your machine<br>
+- execute command inside your machine<br>
 **$ git clone https://github.com/Tejas-K90/Grocy-Management/**
 
+
+
 ### --------------------------- DATABASE-----------------------------------<br>
-#There is "GROCYHERE.sql" file as SQL DUMP file.<br>
-#You can DUMP SQL DATABASE into MARIADB by using these steps<br>
-#1. First Make Database named as "GROCERY" inside your mariadb server<br>
-#2. Execute this command inside yor linux<br>
+- There is "GROCYHERE.sql" file as SQL DUMP file.<br>
+- You can DUMP SQL DATABASE into MARIADB by using these steps<br>
+1. First Make Database named as "GROCERY" inside your mariadb server<br>
+2. Execute this command inside yor linux<br>
 **$ mysql -u root -p GROCERY < GROCYHERE.sql**<br>
-#All tables and data will be imported inside your database<br>
+- All tables and data will be imported inside your database<br>
+
+
 
 ### -----------------------------Start Apache------------------------------<br>
-#All required files are inside "/Grocery_Management" folder.<br>
-#Complete instalation of apache2 and php inside your machine,<br>
-#Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
-#start the apache server<br>
+- All required files are inside "/Grocery_Management" folder.<br>
+- Complete instalation of apache2 and php inside your machine,<br>
+- Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
+- start the apache server<br>
 **$ systemctl start apache2**
+
+
 
 ### ---------------------Azure Services Overview-------------------------<br>
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/3f87e6e7-82a0-4028-9ab0-a6e367a1808a)
@@ -53,8 +63,12 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a7a441fd-c476-4103-932a-3a219fb47fa8)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a1e7e04b-039a-439e-bb14-3f56af7ed784)
 
+## For more Step-By-Step explaination please refer our Project-Documentation:
+### [Project-Documentation.pdf](https://github.com/Tejas-K90/Grocery-Management/blob/main/Project-Documentation.pdf)
 
-### --------------------------Output images---------------------------------
+
+
+### --------------------------Output Overview---------------------------------
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/cdd78309-2fc4-4629-9ef5-ff732cbe59d8)
 
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/f79e2b78-a58c-46dd-aa98-17a8349b23cb)
@@ -69,4 +83,4 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/e739fdc4-3026-4c4a-aca3-d2ce0ad6b568)
 
-#----------------------------------------------------------------------------
+# --------------------------------Thankyou--------------------------------------------
