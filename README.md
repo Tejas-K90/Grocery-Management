@@ -56,7 +56,7 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 - Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
 - start the apache server<br>
 **$ systemctl start apache2**<br>
-
+### _______________________________________________________________
 
 # Azure Services Overview<br>
 ### 1. Azure Kubernetes Service (AKS)
