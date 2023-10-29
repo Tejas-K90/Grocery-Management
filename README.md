@@ -1,11 +1,31 @@
-# Grocery-Management<br>
-#Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,<br>
-#For database MariaDB service is used.<br>
+# Grocery-Management website on Azure Kuberetes Servicen (AKS)<br>
+### Project Overview <br>
+
+- **Project Name:** Grocery Management 
+- **Group Members:** Tejas Kapade, Srushti Bidaye.
+- **Date:** 29/10/2023
+
+The **Grocery Management** project is a cloud-based solution that utilizes Azure services to let you do shopping of groceries using web-application deployed on AKS cluster.
+
 <br>
+
 ### -----------------------About This Project------------------------------<br>
 
-*The grocery management project aims to address the following problem statement: "Inefficient and time-consuming grocery shopping processes for consumers and limited inventory control for store owners." This project will provide a comprehensive solution to optimize the grocery shopping experience for consumers by developing a user-friendly mobile application that enables them to create and manage shopping lists, find the most cost-effective products, and access real-time inventory information.*<br>
+ *The grocery management project aims to address the following problem statement: "Inefficient and time-consuming grocery shopping processes for consumers and limited inventory control for store owners." This project will provide a comprehensive solution to optimize the grocery shopping experience for consumers by developing a user-friendly mobile application that enables them to create and manage shopping lists, find the most cost-effective products, and access real-time inventory information.* <br>
 
+
+## Azure Services Used in this Project
+
+1. **Azure Kubernetes Service (AKS)**: Azure Kubernetes Service (AKS) is a managed Kubernetes container orchestration service in Microsoft Azure for deploying, managing, and scaling containerized applications.
+
+2. **Azure Load Balancer**: It is a network service that distributes incoming network traffic across multiple virtual machines to ensure high availability, scalability, and reliability for applications hosted in Azure.
+
+3. **Virtual Machine Scale Set (VMSS)**: It is a service that allows you to deploy and manage a group of identical virtual machines. It automatically increases or decreases the number of VM instances in response to changes in demand, helping to ensure high availability, load distribution, and efficient resource utilization for your applications.
+
+## Code overview
+- Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,<br>
+- For database MariaDB service is used,<br>
+- Every file required to run the web-app is in Grocery-Management repository.
 
 ### -----------------------Clone this Repository---------------------------<br>
 #execute command inside your machine<br>
@@ -25,6 +45,14 @@
 #Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
 #start the apache server<br>
 **$ systemctl start apache2**
+
+### ---------------------Azure Services Overview-------------------------<br>
+![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/3f87e6e7-82a0-4028-9ab0-a6e367a1808a)
+![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/96cc22b6-48b7-4995-ac1a-77bdef7bf125)
+![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/fdf187c7-6154-44e9-bb12-3df13b0aa633)
+![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a7a441fd-c476-4103-932a-3a219fb47fa8)
+![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a1e7e04b-039a-439e-bb14-3f56af7ed784)
+
 
 ### --------------------------Output images---------------------------------
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/cdd78309-2fc4-4629-9ef5-ff732cbe59d8)
