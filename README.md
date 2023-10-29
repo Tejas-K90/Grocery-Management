@@ -40,7 +40,7 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 
 
 
-### --------------------------- DATABASE-----------------------------------<br>
+### --------------------------- Database dump-----------------------------------<br>
 - There is "GROCYHERE.sql" file as SQL DUMP file.<br>
 - You can DUMP SQL DATABASE into MARIADB by using these steps<br>
 1. First Make Database named as "GROCERY" inside your mariadb server<br>
@@ -50,16 +50,15 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 
 
 
-### -----------------------------Start Apache------------------------------<br>
+### -----------------------------Apache------------------------------<br>
 - All required files are inside "/Grocery_Management" folder.<br>
 - Complete instalation of apache2 and php inside your machine,<br>
 - Copy this all files from "/Grocery_Management" folder and paste to "/var/www/html" directory inside your machine.<br>
 - start the apache server<br>
-**$ systemctl start apache2**
+**$ systemctl start apache2**<br>
 
 
-
-### ---------------------Azure Services Overview-------------------------<br>
+### Azure Services Overview ___________________________________________<br>
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/3f87e6e7-82a0-4028-9ab0-a6e367a1808a)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/96cc22b6-48b7-4995-ac1a-77bdef7bf125)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/fdf187c7-6154-44e9-bb12-3df13b0aa633)
