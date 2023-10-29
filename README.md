@@ -64,11 +64,11 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/fdf187c7-6154-44e9-bb12-3df13b0aa633)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a7a441fd-c476-4103-932a-3a219fb47fa8)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/a1e7e04b-039a-439e-bb14-3f56af7ed784)
-
+<br>
 ## For more Step-By-Step explaination please refer our Project-Documentation:
 ### [Project-Documentation.pdf](https://github.com/Tejas-K90/Grocery-Management/blob/main/Project-Documentation.pdf)
 
-
+<br>
 
 ### --------------------------Output Overview---------------------------------
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/cdd78309-2fc4-4629-9ef5-ff732cbe59d8)
