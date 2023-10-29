@@ -12,7 +12,7 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 ### -----------------------About This Project------------------------------<br>
 
  *The grocery management project aims to address the following problem statement: "Inefficient and time-consuming grocery shopping processes for consumers and limited inventory control for store owners." This project will provide a comprehensive solution to optimize the grocery shopping experience for consumers by developing a user-friendly mobile application that enables them to create and manage shopping lists, find the most cost-effective products, and access real-time inventory information.* <br>
-### _______________________________________________________________________
+### ______________________________________________________________________
 
 
 
@@ -58,7 +58,7 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 **$ systemctl start apache2**<br>
 
 
-### Azure Services Overview ___________________________________________<br>
+# Azure Services Overview ___________________________________________<br>
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/3f87e6e7-82a0-4028-9ab0-a6e367a1808a)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/96cc22b6-48b7-4995-ac1a-77bdef7bf125)
 ![image](https://github.com/Tejas-K90/Grocery-Management/assets/61987805/fdf187c7-6154-44e9-bb12-3df13b0aa633)
