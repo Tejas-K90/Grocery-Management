@@ -25,9 +25,10 @@ The **Grocery Management** project is a cloud-based solution that utilizes Azure
 
 
 ## Code overview
-- Project is mainly based on Frontend Technologies like HTML, CSS, JS and PHP is used for Backend,<br>
+- For Frontend: HTML, CSS, JS,
+- For Backend: PHP,
 - For database MariaDB service is used,<br>
-- Every file required to run the web-app is in Grocery-Management repository.
+- Every file required to run the web-app is in /Grocery-Management repository.
 
 
 
